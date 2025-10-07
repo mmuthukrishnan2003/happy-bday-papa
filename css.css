@@ -1,0 +1,9 @@
+  body{
+  background: radial-gradient(rgb(235, 156, 235), pink);
+      height: 100vh;
+      margin: 0;
+      justify-content: center;
+      align-items: center;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      display: flex;
+  }
